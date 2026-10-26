@@ -13,9 +13,7 @@
 
 ### About me
 
-I'm a technology consultant with **16+ years of experience** building cloud-native systems. I've worked as a software engineer and software architect, from hands-on delivery to leading a B2B2C product offering and contributing to an innovation hub in Portugal.
-
-Lately I've been working on **AI and agentic applications** and how to run them reliably on modern cloud platforms.
+I'm a technology consultant and engineer with **15+ years** leading **cloud-native platform modernization and integration** projects. I like turning complex problems into scalable, efficient systems, often using open-source tools. People who work with me know me for transparency, dependability and well-documented work. I do my best work in collaborative teams that value innovation and learning from each other. Lately I've been exploring **agentic AI** and how to run it reliably on modern cloud platforms.
 
 - 🔭 **Currently building:** AI-powered apps on Cloudflare (Workers AI, Durable Objects, Workflows)
 - 🌱 **Currently learning:** agentic AI patterns, LLM orchestration, and memory and state for AI agents
