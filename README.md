@@ -66,8 +66,6 @@ Enterprise solutions and digital business, IoT, big data, business analytics, cl
 
 ### 📂 Projects
 
-- **[re-reg-on-the-chain](https://github.com/aquakanika/re-reg-on-the-chain)**: a smart-contract solution for mutual fund re-registration
-- 🚧 *Coming soon:* an AI-powered application on Cloudflare (LLM + Workflows + memory)
 
 ---
 
