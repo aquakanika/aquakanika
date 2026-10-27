@@ -64,9 +64,4 @@ Enterprise solutions and digital business, IoT, big data, business analytics, cl
 
 ---
 
-### 📂 Projects
-
-
----
-
 <p align="center"><i>Always happy to connect and talk architecture, cloud, or AI. Reach out on LinkedIn!</i></p>
